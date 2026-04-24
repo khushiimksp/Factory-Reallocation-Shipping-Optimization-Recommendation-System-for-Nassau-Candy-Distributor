@@ -18,7 +18,7 @@ The analysis includes:
 •	Evaluating sales, profit, and cost relationships 
 •	Measuring shipping efficiency and profitability 
 •	Analyzing regional and product-level performance 
-•	Developing an interactive dashboard for performance monitoring 
+•	Developing an interactive dashboard for performance monitoring
 
 **Dataset Information**
 
@@ -48,7 +48,7 @@ The dataset contains supply chain records including:
 
 •	**Tableau** – Dashboard development and data visualization 
 
-•	**Calculated Fields (Tableau)** – KPI and metric calculations 
+•	**Calculated Fields (Tableau)** – KPI and metric calculations
 
 **Data Preparation**
 
@@ -74,7 +74,8 @@ o	Delay Rate
 
 **Dashboard Features & Visualizations**
 
-KPI Cards (Key Metrics)
+**KPI Cards (Key Metrics)**
+
 
 <img width="417" height="267" alt="Candy" src="https://github.com/user-attachments/assets/4c71cd4a-3e84-45e2-9f42-b76423a9a020" />
 
