@@ -75,6 +75,9 @@ o	Delay Rate
 **Dashboard Features & Visualizations**
 
 KPI Cards (Key Metrics)
+
+<img width="417" height="267" alt="Candy" src="https://github.com/user-attachments/assets/4c71cd4a-3e84-45e2-9f42-b76423a9a020" />
+
 	
 **Charts**
 
