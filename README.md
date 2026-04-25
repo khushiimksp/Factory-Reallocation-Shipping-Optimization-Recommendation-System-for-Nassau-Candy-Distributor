@@ -131,6 +131,13 @@ o	Delay Rate
 
 •	Improved data storytelling and business insight generation skills 
 
+**Dashboard**
+
+<img width="1916" height="1040" alt="Dashboard Nassau Candy Distributor" src="https://github.com/user-attachments/assets/5aa5adcd-7050-4691-8633-79aa33261802" />
+
+
+
+
 
 
 **Conclusion**
